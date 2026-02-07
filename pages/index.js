@@ -1,5 +1,5 @@
 function Home () {
-    return <h1> alteração da mensagem do arquivo </h1>
+    return <h1> Duda eu amo você. se você me ama, dá uma risadinha! adicionar informação</h1>
 
 }
 
